@@ -4,7 +4,8 @@
 A simple, clean, and interactive **Neon Glow Button** built using pure HTML and CSS. This was a mini-project to practice CSS transitions, box-shadows, and hover effects.
 
 ## 🚀 Live Demo
-Check out the live button here: **[PASTE YOUR LIVE GITHUB PAGES LINK HERE]**
+[<img src="https://img.shields.io/badge/OPEN%20PROJECT-Click%20Here-blueviolet?style=for-the-badge&logo=vercel" width="200">](https://itsdishayk.github.io/Neon-Button/)
+
 
 ## 🛠️ Features
 - **Pure CSS:** No JavaScript used for the styling.
